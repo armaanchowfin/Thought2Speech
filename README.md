@@ -14,5 +14,5 @@ a. Create the necessary Psychopy environment via "environment.yml" provided.
 conda env create -f environment.yml
 ```
 
-b. Perform preliminary Psychopy setup - [Tutorial](https://lukas-snoek.com/introPy/week_2/intro_psychopy.html).
+b. Run as usual.
 
