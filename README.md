@@ -14,5 +14,5 @@ a. Create the necessary Psychopy environment via "environment.yml" provided.
 conda env create -f environment.yml
 ```
 
-b. Run [Stimulus file](https://github.com/user/repo/blob/branch/other_file.md) as usual. 
+b. Run [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py) as usual. 
 
