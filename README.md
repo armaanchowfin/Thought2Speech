@@ -4,4 +4,15 @@
 1. [Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition](https://www.nature.com/articles/s41597-022-01147-2)
 
 ## Usage
-- Either via Psychopy native IDE or via VSCode with the provided Psychopy venv.
+#### 1. Psychopy GUI
+Run in Psychopy native IDE.
+#### 2. VSCode (Recommended)
+**Prerequisites:** 
+
+a. Create the necessary Psychopy environment via "environment.yml" provided.
+```
+conda env create -f environment.yml
+```
+
+b. Perform preliminary Psychopy setup - [Tutorial](https://lukas-snoek.com/introPy/week_2/intro_psychopy.html).
+
