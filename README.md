@@ -14,5 +14,5 @@ a. Create the necessary Psychopy environment via "environment.yml" provided.
 conda env create -f environment.yml
 ```
 
-b. Run stimuli_psycho.py as usual. 
+b. Run [Stimulus file](https://github.com/user/repo/blob/branch/other_file.md) as usual. 
 
