@@ -21,7 +21,7 @@ We recommend the standalone version (64 Bit Windows) - the installation is seaml
 ##### Anaconda and Miniconda
 &nbsp;&nbsp;&nbsp;&nbsp;Intended for more technical users. This installation pathway invloves an [environment file]() that can be used to install PsychoPy® and its &nbsp;&nbsp;&nbsp;&nbsp;dependencies. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Note:** This pathway creates bugs at present, and is unusable. [13/12/2022] 
+&nbsp;&nbsp;&nbsp;&nbsp;**Note:** This pathway creates bugs at present and is unusable. [13/12/2022] 
 
  
 #### 2. Begin the Experiment.
