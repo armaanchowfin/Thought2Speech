@@ -15,3 +15,4 @@ Psychopy allows both *GUI* *first* and *Code* *first* approaches to designing an
 ##### 2. Begin the Experiment.
 &nbsp;&nbsp; Run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py) in your IDE.
 
+## Phase 2 : Data Analysis and Classification
