@@ -13,7 +13,7 @@ Psychopy allows both *GUI* *first* and *Code* *first* approaches to designing an
 ##### 1. Install Psychopy. [**Reference**](https://www.psychopy.org/download.html#pip-install)
 &nbsp;&nbsp;&nbsp;&nbsp;For beginners, we recommend installing the standalone version, enabling you to work with both the Builder and Coder views concurrently.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Alternatively, create a Psychopy virtual environment via the [environment file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/psychopy-env.yml) provided in this repo. This prevents various dependency conflicts. 
+&nbsp;&nbsp;&nbsp;&nbsp;Alternatively, create a Psychopy virtual environment via the [environment file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/psychopy-env.yml) provided in this repo. This prevents various dependency &nbsp;&nbsp;&nbsp;&nbsp;conflicts. 
 ##### 2. Begin the Experiment.
 &nbsp;&nbsp;&nbsp;&nbsp; Run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py) in your IDE.
 
