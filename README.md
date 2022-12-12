@@ -14,12 +14,14 @@ PsychoPy® allows both *GUI* *first* and *Code* *first* approaches to designing 
 We recommend the standalone version (64 Bit Windows) - the installation is seamless. 
 ##### Standalone Version (64 Bit Windows)
 
-&nbsp;&nbsp;&nbsp;&nbsp;This installation enables you to work with both the Builder and Coder views concurrently.
+&nbsp;&nbsp;&nbsp;&nbsp;This installation pathway enables you to work with both the Builder and Coder views concurrently. Uses Python 3.8.10.
 
 &nbsp;&nbsp;&nbsp;&nbsp;To perform the experiment via a local IDE, simply run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py), choosing the interpreter installed with the standalone installation.
 
 ##### Anaconda and Miniconda
-This installation pathway invloves [environment file]() that can be used to install PsychoPy® and its dependencies.
+&nbsp;&nbsp;&nbsp;&nbsp;Intended for more technical users. This installation pathway invloves an [environment file]() that can be used to install PsychoPy® and its &nbsp;&nbsp;&nbsp;&nbsp;dependencies. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Note:** This pathway creates bugs at present, and is unusable. [13/12/2022] 
 
  
 #### 2. Begin the Experiment.
