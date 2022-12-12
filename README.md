@@ -11,7 +11,7 @@ Psychopy allows both *GUI* *first* and *Code* *first* approaches to designing an
 - To run this experiment, we recommend the ***Code*** ***first*** approach in an IDE of your choice.
 
 ##### Prerequisites
-1. Install Psychopy. [**Reference**](https://www.psychopy.org/download.html#pip-install)
-- Create a Psychopy virtual environment via the [environment file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/psychopy-env.yml) in this repo.
-2. 
+###### 1. Install Psychopy. [**Reference**](https://www.psychopy.org/download.html#pip-install)
+&nbsp;Create a Psychopy virtual environment via the [environment file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/psychopy-env.yml) provided in this repo.
+###### 2. Run the Experiment.
 
