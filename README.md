@@ -7,14 +7,22 @@ Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc
 1. [Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition](https://www.nature.com/articles/s41597-022-01147-2)
 
 ### Usage
-Psychopy allows both *GUI* *first* and *Code* *first* approaches to designing and running experiments via a *Builder view* and *Coder view* respectively.
+PsychoPy® allows both *GUI* *first* and *Code* *first* approaches to designing and running experiments via a *Builder view* and *Coder view* respectively.
 
 
-##### 1. Install Psychopy. [**Reference**](https://www.psychopy.org/download.html#pip-install)
-&nbsp;&nbsp;&nbsp;&nbsp;For beginners, we recommend installing the standalone version, enabling you to work with both the Builder and Coder views concurrently.
+#### 1. Install PsychoPy®. [**Reference**](https://www.psychopy.org/download.html#pip-install)
+We recommend the standalone version (64 Bit Windows) - the installation is seamless. 
+##### Standalone Version (64 Bit Windows)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Alternatively, create a Psychopy virtual environment via the [environment file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/psychopy-env.yml) provided in this repo. This prevents various dependency &nbsp;&nbsp;&nbsp;&nbsp;conflicts. 
-##### 2. Begin the Experiment.
+&nbsp;&nbsp;&nbsp;&nbsp;This installation enables you to work with both the Builder and Coder views concurrently.
+
+&nbsp;&nbsp;&nbsp;&nbsp;To perform the experiment via a local IDE, simply run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py), choosing the interpreter installed with the standalone installation.
+
+##### Anaconda and Miniconda
+This installation pathway invloves [environment file]() that can be used to install PsychoPy® and its dependencies.
+
+ 
+#### 2. Begin the Experiment.
 &nbsp;&nbsp;&nbsp;&nbsp; Run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py) in your IDE.
 
 ## Phase 2 : Data Analysis and Classification
