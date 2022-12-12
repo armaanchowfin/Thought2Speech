@@ -16,7 +16,7 @@ We recommend the standalone version (64 Bit Windows) - the installation is seaml
 
 &nbsp;&nbsp;&nbsp;&nbsp;This installation pathway enables you to work with both the Builder and Coder views concurrently. Uses Python 3.8.10.
 
-&nbsp;&nbsp;&nbsp;&nbsp;To perform the experiment via a local IDE, simply run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py), choosing the interpreter installed with the standalone installation.
+&nbsp;&nbsp;&nbsp;&nbsp;To perform the experiment via a local IDE, simply run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py), choosing the interpreter installed with the standalone installer.
 
 ##### Anaconda and Miniconda
 &nbsp;&nbsp;&nbsp;&nbsp;Intended for more technical users. This installation pathway invloves an [environment file]() that can be used to install PsychoPy® and its &nbsp;&nbsp;&nbsp;&nbsp;dependencies. 
