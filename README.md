@@ -31,3 +31,4 @@ To run the experiment via a **local IDE**, simply execute the [Stimulus file](ht
 To run the experiment via the **native PsychoPy® IDE**, save the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py) to the PsychoPy® experiment directory and execute as usual from within PsychoPy®.
 
 ## Phase 2 : Data Analysis and Classification
+The imprecise nature of EEG makes subsequent analysis
