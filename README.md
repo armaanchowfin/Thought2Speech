@@ -20,7 +20,7 @@ We recommend the standalone version (64 Bit Windows) - the installation is seaml
 ###### Anaconda and Miniconda
 &nbsp;&nbsp;&nbsp;&nbsp;Intended for more technical users. This installation pathway invloves an [environment file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/psychopy-env.yml) that can be used to install PsychoPy® and its &nbsp;&nbsp;&nbsp;&nbsp;dependencies. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Note:** This method creates bugs at present and is unusable. [13/12/2022] 
+&nbsp;&nbsp;&nbsp;&nbsp;**Note:** This method creates bugs at present and is unusable. Working on a fix. [13/12/2022] 
 
  
 ##### 2. Begin the Experiment.
