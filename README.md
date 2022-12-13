@@ -1,5 +1,11 @@
 # Thought 2 Speech
-Towards an Brain-Computer Interface for Imagined Speech Classification via EEG signals.
+As of 2022, there are no large datasets of imagined speech signals via portable EEG. Most experiments are limited to 5-10 individuals.
+
+**The broad goals of this project are:**
+- To design and train Deep neural networks for classification tasks.
+- To evaluate subject independent neural signatures of speech.
+- To develop an end to end speech decoding system.
+
 ## Phase 1 : Experiment Design and Dataset Generation
 Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc-x/), a 14 - channel wireless EEG headset.
 
