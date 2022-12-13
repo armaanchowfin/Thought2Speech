@@ -1,5 +1,5 @@
 # Thought 2 Speech
-Towards an Brain-Computer Interface for Imagined Speech Classification via EEG. 
+Towards an Brain-Computer Interface for Imagined Speech Classification via EEG signals.
 ## Phase 1 : Experiment Design and Dataset Generation
 Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc-x/), a wireless headset with 14 channels.
 
