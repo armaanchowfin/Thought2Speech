@@ -34,6 +34,5 @@ To run the experiment via the **native PsychoPy® IDE**, save the [Stimulus file
 The imprecise nature of EEG hardware makes the subsequent data analysis critical.
 
 ### Background Reading
-- [Transfer learning for medical image classification: a literature review (2022)](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-022-00793-7)
-- [Capsule Networks: A Quick Primer (2020)](https://blog.paperspace.com/capsule-networks/)
-- 
+- [Transfer learning for medical image classification: a literature review (2022)](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-022-00793-7).
+- [Capsule Networks: A Quick Primer (2020)](https://blog.paperspace.com/capsule-networks/).
