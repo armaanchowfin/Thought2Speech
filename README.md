@@ -17,7 +17,7 @@ We recommend the standalone version (64 Bit Windows) - the installation is seaml
 
 &nbsp;&nbsp;&nbsp;&nbsp;This installation pathway enables you to work with both the Builder and Coder views concurrently. Creates a Pyschopy environment with &nbsp;&nbsp;&nbsp;&nbsp;Python 3.8.10.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Stimulus file]() can be run in the native PsychoPy® IDE **or** in a local IDE after choosing the appropriate environment.
+&nbsp;&nbsp;&nbsp;&nbsp;[Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py) can be run in the native PsychoPy® IDE **or** in a local IDE after choosing the appropriate environment.
 
 
 ###### Anaconda and Miniconda
@@ -27,6 +27,8 @@ We recommend the standalone version (64 Bit Windows) - the installation is seaml
 
  
 ##### 2. Begin the Experiment.
-To perform the experiment via a local IDE, simply run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py), choosing the appropriate interpreter or environment based on your PsychoPy® installation pathway.
+To perform the experiment via a **local IDE**, simply run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py) after choosing the appropriate environment.
+
+To perform the experiment via the **native PsychoPy® IDE**, save the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py) in the experiment directory and execute as usual.
 
 ## Phase 2 : Data Analysis and Classification
