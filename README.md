@@ -6,7 +6,7 @@ Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc
 ### Background Reading
 1. [Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition](https://www.nature.com/articles/s41597-022-01147-2)
 
-### Software setup
+### A guide for beginners
 PsychoPy® allows both *GUI* *first* and *Code* *first* approaches to designing and running experiments via a *Builder view* and *Coder view* respectively.
 
 
