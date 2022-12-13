@@ -15,7 +15,9 @@ PsychoPy® allows both *GUI* *first* and *Code* *first* approaches to designing 
 We recommend the standalone version (64 Bit Windows) - the installation is seamless. 
 ###### Standalone Version (64 Bit Windows)
 
-&nbsp;&nbsp;&nbsp;&nbsp;This installation pathway enables you to work with both the Builder and Coder views concurrently. Uses Python 3.8.10.
+&nbsp;&nbsp;&nbsp;&nbsp;This installation pathway enables you to work with both the Builder and Coder views concurrently. Creates a Pyschopy environment with &nbsp;&nbsp;&nbsp;&nbsp;Python 3.8.10.
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Stimulus file]() can be run in the native PsychoPy® IDE **or** in a local IDE after choosing the appropriate environment.
 
 
 ###### Anaconda and Miniconda
