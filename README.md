@@ -6,24 +6,24 @@ Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc
 ### Background Reading
 1. [Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition](https://www.nature.com/articles/s41597-022-01147-2)
 
-### A guide for beginners
+#### A guide for beginners
 PsychoPy® allows both *GUI* *first* and *Code* *first* approaches to designing and running experiments via a *Builder view* and *Coder view* respectively. Follow the steps below to run the experiment defined here.
 
 
-#### 1. Install PsychoPy®. [**Reference**](https://www.psychopy.org/download.html#pip-install)
+##### 1. Install PsychoPy®. [**Reference**](https://www.psychopy.org/download.html#pip-install)
 We recommend the standalone version (64 Bit Windows) - the installation is seamless. 
-##### Standalone Version (64 Bit Windows)
+###### Standalone Version (64 Bit Windows)
 
 &nbsp;&nbsp;&nbsp;&nbsp;This installation pathway enables you to work with both the Builder and Coder views concurrently. Uses Python 3.8.10.
 
 
-##### Anaconda and Miniconda
+###### Anaconda and Miniconda
 &nbsp;&nbsp;&nbsp;&nbsp;Intended for more technical users. This installation pathway invloves an [environment file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/psychopy-env.yml) that can be used to install PsychoPy® and its &nbsp;&nbsp;&nbsp;&nbsp;dependencies. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Note:** This pathway creates bugs at present and is unusable. [13/12/2022] 
 
  
-#### 2. Begin the Experiment.
+##### 2. Begin the Experiment.
 To perform the experiment via a local IDE, simply run the [Stimulus file](https://github.com/armaanchowfin/Thought2Speech/blob/main/Experiment%20Protocol%20-%20Pyschopy/stimuli_psycho.py), choosing the appropriate interpreter or environment based on your PsychoPy® installation pathway.
 
 ## Phase 2 : Data Analysis and Classification
