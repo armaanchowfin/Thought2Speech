@@ -4,6 +4,7 @@ Towards an Brain-Computer Interface for Imagined Speech Classification via EEG s
 Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc-x/), a 14 - channel wireless EEG headset.
 
 ### Background Reading
+- [Decoding Covert Speech From EEG-A Comprehensive Review](https://www.frontiersin.org/articles/10.3389/fnins.2021.642251/full)
 - [Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition](https://www.nature.com/articles/s41597-022-01147-2)
 - [Effect of Spoken Speech in Decoding Imagined Speech from Non-Invasive Human Brain Signals](https://arxiv.org/abs/2212.02047)
 
