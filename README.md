@@ -14,6 +14,7 @@ Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc
 - [Decoding Covert Speech From EEG-A Comprehensive Review (2021)](https://www.frontiersin.org/articles/10.3389/fnins.2021.642251/full)
 - [Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition (2022)](https://www.nature.com/articles/s41597-022-01147-2)
 - [Effect of Spoken Speech in Decoding Imagined Speech from Non-Invasive Human Brain Signals (2022)](https://arxiv.org/abs/2212.02047)
+- [Subject-Independent Brain-Computer Interface for Decoding High-Level Visual Imagery Tasks (2021)](https://arxiv.org/pdf/2106.04026.pdf)
 
 ### Experiment Setup
 
