@@ -1,8 +1,8 @@
 # Thought 2 Speech
-As of 2022, there are no large datasets of imagined speech signals via portable EEG. Most experiments are limited to 5-10 individuals.
+As of 2022, there are no large datasets of inner speech signals via portable EEG. Most experiments are limited to 5-10 individuals.
 
 **The broad goals of this project are:**
-- To generate a large scale dataset of EEG signals recorded during imagined speech. 
+- To generate a large scale dataset of EEG signals recorded during inner speech production. 
 - To design and train Deep neural networks for classification tasks.
 - To evaluate subject independent neural signatures of speech.
 - To develop an end to end speech decoding system.
