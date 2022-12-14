@@ -17,6 +17,7 @@ Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc
 - [Subject-Independent Brain-Computer Interface for Decoding High-Level Visual Imagery Tasks (2021)](https://arxiv.org/pdf/2106.04026.pdf)
 
 ### Experiment Setup
+Current inner speech datasets are limited 
 
 ## Phase 2 : Data Analysis and Classification
 The nature of EEG hardware makes the data analysis post data generation critical.
