@@ -18,7 +18,7 @@ Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc
 - [Toward asynchronous EEG-based BCI: Detecting imagined words segments in continuous EEG signals](https://arxiv.org/pdf/2105.04294.pdf)
 
 ### Experiment Setup
-Current inner speech datasets are limited 
+Imagined Speech is defined as “pronouncing internally to oneself a syllable, word or phrase without producing any sound or moving any articulation”.
 
 ## Phase 2 : Data Analysis and Classification
 The nature of EEG hardware makes the data analysis post data generation critical.
