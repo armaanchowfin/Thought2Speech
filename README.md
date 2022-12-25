@@ -15,6 +15,7 @@ Signals are recorded via the [EMOTIV EPOC X Headset](https://www.emotiv.com/epoc
 - [Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition (2022)](https://www.nature.com/articles/s41597-022-01147-2)
 - [Effect of Spoken Speech in Decoding Imagined Speech from Non-Invasive Human Brain Signals (2022)](https://arxiv.org/abs/2212.02047)
 - [Subject-Independent Brain-Computer Interface for Decoding High-Level Visual Imagery Tasks (2021)](https://arxiv.org/pdf/2106.04026.pdf)
+- [oward asynchronous EEG-based BCI: Detecting imagined words segments in continuous EEG signals](https://arxiv.org/pdf/2105.04294.pdf)
 
 ### Experiment Setup
 Current inner speech datasets are limited 
